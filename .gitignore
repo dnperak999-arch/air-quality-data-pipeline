@@ -1,0 +1,15 @@
+.venv/
+.idea/
+.DS_Store
+__pycache__/
+.pytest_cache/
+
+config/apikey.txt
+
+data/raw/*.json
+data/rejected_raw/
+data/processed/*.csv
+!data/processed/air_quality_data.csv
+
+*.log
+*.pkl

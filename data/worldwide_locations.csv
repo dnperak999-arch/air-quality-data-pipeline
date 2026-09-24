@@ -1,0 +1,60 @@
+city,country,country_code,latitude,longitude
+Baghdad,Iraq,IQ,33.34058,44.400879
+Riyadh,Saudi Arabia,SA,24.687731,46.721851
+Tehran,Iran,IR,35.694389,51.421509
+Bucharest,Romania,RO,44.432251,26.10626
+Sofia,Bulgaria,BG,42.69751,23.32415
+Istanbul,Turkey,TR,41.01384,28.949659
+Warsaw,Poland,PL,52.229771,21.01178
+Belgrade,Serbia,RS,44.804008,20.46513
+Johannesburg,South Africa,ZA,-26.202271,28.043631
+Rawalpindi,Pakistan,PK,33.6007,73.067902
+Faisalabad,Pakistan,PK,31.41667,73.083328
+Dhaka,Bangladesh,BD,23.7104,90.40744
+Wellington,New Zealand,NZ,-41.287,174.776
+Patna,India,IN,25.6,85.116669
+New Delhi,India,IN,28.61282,77.23114
+Kanpur,India,IN,26.466667,80.349998
+Jodhpur,India,IN,26.286667,73.029999
+Gaya,India,IN,24.783333,85
+Delhi,India,IN,28.666668,77.216667
+Mumbai,India,IN,19.01441,72.847939
+Agra,India,IN,27.183332,78.01667
+Kathmandu,Nepal,NP,27.716667,85.316666
+Omsk,Russia,RU,55,73.400002
+Norilsk,Russia,RU,69.3535,88.202698
+Kemerovo,Russia,RU,55.333328,86.083328
+Bangkok,Thailand,TH,13.87719,100.71991
+Jakarta,Indonesia,ID,-6.21462,106.845131
+Santiago,Chile,CL,-33.45694,-70.64827
+Madrid,Spain,ES,40.41650,-3.70256
+Los Angeles,United States,US,34.05223,-118.24368
+Kuala Lumpur,Malaysia,MY,3.14309,101.686531
+Xi'an,China,CN,34.258331,108.928612
+Tianjin,China,CN,39.14222,117.176666
+Shijiazhuang,China,CN,38.04250,114.51000
+Lanzhou,China,CN,36.056389,103.792221
+Incheon,South Korea,KR,37.450001,126.416107
+Ulan-Ude,Russia,RU,51.82605,107.609787
+Shenyang,China,CN,41.792221,123.432777
+Sydney,Australia,AU,-33.867851,151.207321
+Denver,United States,US,39.73915,-104.98470
+Bamenda,Cameroon,CM,5.95266,10.15824
+Lisbon,Portugal,PT,38.716671,-9.13333
+Banff,Canada,CA,51.17622,-115.56982
+Stockholm,Sweden,SE,59.5,18
+Paris,France,FR,48.853401,2.3486
+Marseille,France,FR,43.296951,5.38107
+Prague,Czechia,CZ,50.088039,14.42076
+Katowice,Poland,PL,50.258419,19.02754
+Vicenza,Italy,IT,45.557289,11.5409
+Turin,Italy,IT,45.070492,7.68682
+Piacenza,Italy,IT,45.046761,9.69937
+Slavonski Brod,Croatia,HR,45.160278,18.01556
+Cape Town,South Africa,ZA,-33.925838,18.42322
+Buenos Aires,Argentina,AR,-34.61315,-58.37723
+Toluca,Mexico,MX,19.28833,-99.667221
+Mexico City,Mexico,MX,19.428471,-99.127663
+Chicago,United States,US,41.85003,-87.65005
+Lima,Peru,PE,-12.06000,-77.03750
+Vancouver,Canada,CA,49.24966,-123.11934
